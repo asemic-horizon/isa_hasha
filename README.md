@@ -34,7 +34,7 @@ which is represented as
 ```
 SeismicData -> Location [arrowhead=icurve]
 ```
-* Type hinting in function definition inside classes ("implicit has-a")
+### Type hinting in function definition inside classes ("implicit has-a")
 
 ```py
 
